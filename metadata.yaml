@@ -1,5 +1,5 @@
 _repo: Bewick-s-Select-Fables-of-0xc6sop-and-others_60874
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributors:
   - agent_name: Goldsmith, Oliver
@@ -11,6 +11,9 @@ contributor:
   - agent_name: Pearson, Edwin
     gutenberg_agent_id: '8495'
     url: http://www.gutenberg.org/2009/agents/8495
+covers:
+- cover_type: archival
+  image_path: 60874-h/images/cover.jpg
 creator:
   author:
     agent_name: Bewick, Thomas
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33524
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Bewick
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60874#Bewick-s-Select-Fables-of-0xc6sop-and-others
 gutenberg_issued: '2019-12-07'
 gutenberg_type: Text
 identifiers:
