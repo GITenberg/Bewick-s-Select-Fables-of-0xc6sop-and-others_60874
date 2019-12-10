@@ -1,0 +1,37 @@
+_repo: Bewick-s-Select-Fables-of-0xc6sop-and-others_60874
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Goldsmith, Oliver
+    alias: Goldsmit, Oliver
+    deathdate: 1774
+    gutenberg_agent_id: '211'
+    url: http://www.gutenberg.org/2009/agents/211
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Goldsmith
+  - agent_name: Pearson, Edwin
+    gutenberg_agent_id: '8495'
+    url: http://www.gutenberg.org/2009/agents/8495
+creator:
+  author:
+    agent_name: Bewick, Thomas
+    alias: Bewick, T. (Thomas)
+    birthdate: 1753
+    deathdate: 1828
+    gutenberg_agent_id: '33524'
+    url: http://www.gutenberg.org/2009/agents/33524
+    wikipedia: https://en.wikipedia.org/wiki/Thomas_Bewick
+description: ''
+gutenberg_issued: '2019-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60874'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Bewick''s Select Fables
+
+  of Æsop and others.'
+url: http://www.gutenberg.org/ebooks/60874
